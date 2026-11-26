@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Codes/dolgi/3 sem/kazenkov/04/out/build/1",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++14 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Codes\\dolgi\\3 sem\\kazenkov\\04\\main.cpp\"",
-  "file": "C:/Codes/dolgi/3 sem/kazenkov/04/main.cpp",
-  "output": "C:/Codes/dolgi/3 sem/kazenkov/04/out/build/1/CMakeFiles/main.dir/main.cpp.obj"
-}
-]
